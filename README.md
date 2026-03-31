@@ -1,64 +1,78 @@
 <div align="center">
 
-  <h3><i>"Thank you, Carl Sagan, for the inspiration."</i></h3>
+  <p><strong>Education of the future</strong><br/>@dicarvalho.prof</p>
+  <p>Trabalhando para democratizar o aprendizado com tecnologia de ponta.</p>
 
-  <p>
-    <img src="https://img.shields.io/static/v1?label=📍&message=+200+alunos&color=7C3AED&style=pill" /> 
-    <img src="https://img.shields.io/static/v1?label=🌍&message=Ao+redor+do+mundo&color=8B5CF6&style=pill" /> 
-    <img src="https://img.shields.io/static/v1?label=🎯&message=Educação+e+Tecnologia&color=A78BFA&style=pill" />
-  </p>
+  <br/>
 
-  <br />
+  <table width="100%">
+    <tr>
+      <td width="55%" style="padding: 20px; border: none; vertical-align: middle;">
+        <p align="left">
+          <strong>Recursos Autorais</strong><br/>
+          <strong size="6">Whiteboard</strong><br/><br/>
+          Quadro branco interativo para aulas particulares.<br/><br/>
+          <a href="https://dididoingles.github.io/whiteboard-2.0/index.html">
+            <img src="https://img.shields.io/static/v1?label=&message=CONHECER&color=6366F1&style=pill" height="30" />
+          </a>
+        </p>
+      </td>
+      <td width="45%" align="center" style="border: none;">
+        <img src="CAMINHO_DA_IMAGEM_WHITEBOARD" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-  <h2>📚 Conheça meus projetos</h2>
-</div>
+  <br/>
 
-<blockquote style="border: none;">
-  <p align="left">
-    <strong>🎨 Whiteboard</strong> &nbsp;
-    <a href="https://dididoingles.github.io/whiteboard-2.0/index.html">
-      <img src="https://img.shields.io/static/v1?label=&message=Testar&color=7C3AED&style=pill&logo=rocket&logoColor=white" height="25" />
-    </a>
-    <br/>
-    <i>Quadro interativo para aulas dinâmicas</i>
-  </p>
+  <table width="100%">
+    <tr>
+      <td width="55%" style="padding: 20px; border: none; vertical-align: middle;">
+        <p align="left">
+          <strong>Recursos Autorais</strong><br/>
+          <strong size="6">Language Library</strong><br/><br/>
+          Biblioteca digital de recursos gratuitos.<br/><br/>
+          <a href="https://sites.google.com/view/profdiandradeingles/biblioteca">
+            <img src="https://img.shields.io/static/v1?label=&message=CONHECER&color=6366F1&style=pill" height="30" />
+          </a>
+        </p>
+      </td>
+      <td width="45%" align="center" style="border: none;">
+        <img src="CAMINHO_DA_IMAGEM_LIBRARY" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-  <p align="left">
-    <strong>🎧 Language Lab</strong> &nbsp;
-    <a href="https://sites.google.com/view/profdiandradeingles/labs">
-      <img src="https://img.shields.io/static/v1?label=&message=Conhecer&color=8B5CF6&style=pill&logo=headphones&logoColor=white" height="25" />
-    </a>
-    <br/>
-    <i>Laboratório de pronúncia e áudio</i>
-  </p>
+  <br/>
 
-  <p align="left">
-    <strong>📖 Language Library</strong> &nbsp;
-    <a href="https://sites.google.com/view/profdiandradeingles/biblioteca">
-      <img src="https://img.shields.io/static/v1?label=&message=Testar&color=A78BFA&style=pill&logo=book&logoColor=white" height="25" />
-    </a>
-    <br/>
-    <i>Biblioteca digital de recursos</i>
-  </p>
-</blockquote>
+  <table width="100%">
+    <tr>
+      <td width="55%" style="padding: 20px; border: none; vertical-align: middle;">
+        <p align="left">
+          <strong>Recursos Autorais</strong><br/>
+          <strong size="6">Language Lab</strong><br/><br/>
+          Um laboratório para praticar e adquirir habilidades linguísticas.<br/><br/>
+          <a href="https://sites.google.com/view/profdiandradeingles/labs">
+            <img src="https://img.shields.io/static/v1?label=&message=CONHECER&color=6366F1&style=pill" height="30" />
+          </a>
+        </p>
+      </td>
+      <td width="45%" align="center" style="border: none;">
+        <img src="CAMINHO_DA_IMAGEM_LAB" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <br />
-  <hr width="40%" />
-  <br />
+  <br/>
 
-  <h2>contato</h2>
   <p>
     <a href="https://sites.google.com/view/profdiandradeingles/in%C3%ADcio">
-      <img src="https://img.shields.io/static/v1?label=&message=Saiba+mais&color=7C3AED&style=pill&logo=magic&logoColor=white" height="30" />
+      <img src="https://img.shields.io/static/v1?label=&message=Acesse+o+Site+oficial&color=6366F1&style=pill" height="35" />
     </a>
     &nbsp;
     <a href="https://wa.me/5516993272278">
-      <img src="https://img.shields.io/static/v1?label=&message=WhatsApp&color=25D366&style=pill&logo=whatsapp&logoColor=white" height="30" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/dicarvalho.prof/">
-      <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=pill&logo=instagram&logoColor=white" height="30" />
+      <img src="https://img.shields.io/static/v1?label=&message=Conversar+no+WhatsApp&color=6366F1&style=pill" height="35" />
     </a>
   </p>
+
 </div>
