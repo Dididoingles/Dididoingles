@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/static/v1?label=&message=Conhecer&color=8B5CF6&style=flat&logo=headphones&logoColor=white" height="25" />
     </a>
     <br/>
-    <i>Laboratório de pronúncia e áudio</i>
+    <i>Laboratório para treinar as habilidades linguísticas</i>
   </p>
 
   <br />
