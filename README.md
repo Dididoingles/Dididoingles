@@ -10,7 +10,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-
         body {
             font-family: 'Press Start 2P', 'Courier New', monospace;
             background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
