@@ -8,7 +8,7 @@
   <a href="https://raw.githubusercontent.com/Dididoingles/Language-library/main/ebooks/A%20mente%20que%20fala%20ingl%C3%AAs%20(Student's%20version).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ebook:_A_mente_que_fala_inglês-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Download Ebook" />
   </a>
-  <a href="(https://sites.google.com/view/profdiandradeingles/in%C3%ADcio)" target="_blank">
+  <a href="https://sites.google.com/view/profdiandradeingles/in%C3%ADcio" target="_blank">
     <img src="https://img.shields.io/badge/Official_website-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Website" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
