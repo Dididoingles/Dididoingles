@@ -11,7 +11,7 @@
   <a href="https://sites.google.com/view/profdiandradeingles/in%C3%ADcio" target="_blank">
     <img src="https://img.shields.io/badge/Official_website-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Website" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/dicarvalho.prof/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Instagram" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5516993272278&text&type=phone_number&app_absent=0" target="_blank">
