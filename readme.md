@@ -5,16 +5,16 @@
 
   <br><br>
 
-  <a href="Link_do_seu_ebook_aqui" target="_blank">
+  <a href="https://raw.githubusercontent.com/Dididoingles/Language-library/main/ebooks/A%20mente%20que%20fala%20ingl%C3%AAs%20(Student's%20version).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ebook:_A_mente_que_fala_inglês-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Download Ebook" />
   </a>
-  <a href="Link_do_seu_website_aqui" target="_blank">
+  <a href="(https://sites.google.com/view/profdiandradeingles/in%C3%ADcio)" target="_blank">
     <img src="https://img.shields.io/badge/Official_website-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Website" />
   </a>
-  <a href="Link_do_seu_instagram_aqui" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Instagram" />
   </a>
-  <a href="Link_do_seu_whatsapp_aqui" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5516993272278&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Whatsapp" />
   </a>
 </div>
