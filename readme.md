@@ -1,26 +1,29 @@
 <div align="center">
     <h1><span style="color: #c20000;">@dicarvalho.prof</span></h1>
   
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=4000&pause=1000&color=c20000&center=true&vCenter=true&width=600&lines=English+Teacher;Translator+%26+Writer;Language+Acquisition+Specialist" alt="Typing Svg" />
-  
-    <br><br>
-  
-    <a href="https://raw.githubusercontent.com/Dididoingles/Language-library/main/ebooks/A%20mente%20que%20fala%20ingl%C3%AAs%20(Student's%20version).pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Ebook_A_mente_que_fala_ingl%C3%AAs-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Download Ebook" />
-    </a>
-    <a href="https://dididoingles.github.io/Whiteboard/" target="_blank">
-      <img src="https://img.shields.io/badge/Didi's_Whiteboard-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Didi's Whiteboard" />
-    </a>
-    <a href="https://sites.google.com/view/profdiandradeingles/in%C3%ADcio" target="_blank">
-      <img src="https://img.shields.io/badge/Official_website-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Website" />
-    </a>
-    <a href="https://www.instagram.com/dicarvalho.prof/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Instagram" />
-    </a>
-    <a href="https://api.whatsapp.com/send/?phone=5516993272278&text&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="WhatsApp" />
-    </a>
-  </div>
+   <div align="center">
+  <h1><span style="color: #c20000;">@dicarvalho.prof</span></h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=4000&pause=1000&color=c20000&center=true&vCenter=true&width=600&lines=English+Teacher;Translator+%26+Writer;Language+Acquisition+Specialist" alt="Typing Svg" />
+
+  <br><br>
+
+  <a href="https://raw.githubusercontent.com/Dididoingles/Language-library/main/ebooks/A%20mente%20que%20fala%20ingl%C3%AAs%20(Student's%20version).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ebook_A_mente_que_fala_ingl%C3%AAs-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Download Ebook" />
+  </a>
+  <a href="https://dididoingles.github.io/Whiteboard/" target="_blank">
+    <img src="https://img.shields.io/badge/Didis_Whiteboard-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Didi's Whiteboard" />
+  </a>
+  <a href="https://sites.google.com/view/profdiandradeingles/in%C3%ADcio" target="_blank">
+    <img src="https://img.shields.io/badge/Official_website-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Website" />
+  </a>
+  <a href="https://www.instagram.com/dicarvalho.prof/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Instagram" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5516993272278&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="WhatsApp" />
+  </a>
+</div>
   
   <br>
   
