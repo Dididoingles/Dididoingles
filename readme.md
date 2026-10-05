@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Ebook_A_mente_que_fala_ingl%C3%AAs-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Download Ebook" />
   </a>
   <a href="https://dididoingles.github.io/Whiteboard/" target="_blank">
-    <img src="https://img.shields.io/badge/Didis_Whiteboard-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Didi's Whiteboard" />
+    <img src="https://img.shields.io/badge/Didis_Whiteboard-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="White.board" />
   </a>
   <a href="https://sites.google.com/view/profdiandradeingles/in%C3%ADcio" target="_blank">
     <img src="https://img.shields.io/badge/Official_website-fff?style=for-the-badge&labelColor=fff&color=c20000" alt="Website" />
