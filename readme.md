@@ -1,9 +1,6 @@
 <div align="center">
     <h1><span style="color: #c20000;">@dicarvalho.prof</span></h1>
   
-   <div align="center">
-  <h1><span style="color: #c20000;">@dicarvalho.prof</span></h1>
-
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=4000&pause=1000&color=c20000&center=true&vCenter=true&width=600&lines=English+Teacher;Translator+%26+Writer;Language+Acquisition+Specialist" alt="Typing Svg" />
 
   <br><br>
